@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ideologg
+- 👀 I’m Cybersecurity Enthusiast
+- 🌱 I’m currently learning bash
+- 📫 How to reach me : @eium on DC
